@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"left",
+				"leftSide"
+			],
+			[
+				"gra",
+				"allowGravity"
+			],
+			[
+				"con",
+				"concat"
+			],
+			[
+				"gi",
+				"girlSpeed"
+			],
+			[
+				"col",
+				"col	Tag"
+			],
+			[
+				"b",
+				"bgcolor	Attr"
+			],
+			[
+				"mySQL_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/ShadeWood"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/mouse.js",
+		"/C/xampp/htdocs/deer.js",
+		"/C/xampp/htdocs/bear.js",
+		"/C/xampp/htdocs/level1.js",
+		"/C/xampp/htdocs/ShadeWood/phaser-master/Gruntfile.js",
+		"/C/xampp/htdocs/ShadeWood/phaser-master/build/phaser.js",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 3/Data Structures CST8130/Lab4/Main.txt",
+		"/C/xampp/htdocs/bird.js",
+		"/C/xampp/htdocs/index.html",
+		"/C/xampp/htdocs/level3.js",
+		"/C/xampp/htdocs/girl.js",
+		"/C/xampp/htdocs/level2.js",
+		"/C/xampp/htdocs/ghost.js",
+		"/C/xampp/htdocs/spritesheet.js",
+		"/C/xampp/htdocs/olds/inde2x.html",
+		"/C/xampp/htdocs/inde2x.html",
+		"/C/xampp/htdocs/level2.html",
+		"/C/xampp/htdocs/olds/level1.html",
+		"/C/xampp/htdocs/preloader.js",
+		"/C/xampp/htdocs/boot.js",
+		"/C/xampp/htdocs/mainMenu.js",
+		"/C/xampp/htdocs/olds/index.html",
+		"/C/xampp/htdocs/game.js",
+		"/C/xampp/htdocs/level1.html",
+		"/C/xampp/htdocs/level22.html",
+		"/C/Users/Ian/Desktop/htdocs/index.html",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 3/Web Programming CST8238/Lab 3/index.html",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 3/Web Programming CST8238/Lab 3/ColRowSpan.html",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 3/Web Programming CST8238/Lab1/index.html",
+		"/C/Users/Ian/Downloads/Assignment1Start/Assignment1Start/src/postalCode/PostalCodeIndex.java",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 3/Web Programming CST8238/lab2/index.html",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 3/Processor Architecture CST8216/Lab 3/MSM Test Equipment/MSM Test Equipment_player.html",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 3/C Langauge CST8234/Source Notes/lecture1.c",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 3/C Langauge CST8234/Lab 1/Lab1a.c",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 6/Gabriel, Ian - Lab 6.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 7/Gabriel, Ian - Lab 7.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 8/Gabriel, Ian - Lab 8.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 11/Gabriel, Ian - Lab 11.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Object Orientated Programming (CST8132)/Assignment 4/src/ContactManager.java",
+		"/C/Users/Ian/Desktop/VBA-Web-4.0.0-rc.1/VBA-Web-4.0.0-rc.1/examples/gmail/Gmail.bas",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 10/Gabriel, Ian - Lab 10.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 9/Gabriel, Ian - Lab 9.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 7/Gabriel, Ian - Lab 7.sql.txt",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 7/Gabriel, Ian - Lab 7.txt",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 8/Lab8CommandList",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 4/Gabriel, Ian - Lab 4.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 5/Gabriel, Ian - Lab 5.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 5/lab5.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 12/Gabriel, Ian - Lab 12.sql",
+		"/C/Users/Ian/Downloads/Database Lab 11, 12/Database Lab 11, 12/Yip, Brandon - Lab 12.sql",
+		"/C/Users/Ian/Desktop/CodeSamples.java",
+		"/C/Users/Ian/Downloads/Normandin, ward - Lab 11.sql",
+		"/C/Users/Ian/AppData/Roaming/Microsoft/Windows/Recent/Gabriel, Ian - Lab 11.sql.lnk",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Assignment 2/assignment2.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Assignment 3/Gabriel, Ian - Assignment 3.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Databases (CST8215-300)/Lab 11/technews(1).sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Object Orientated Programming (CST8132)/Assignment2/src/MathTeacher.java",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Object Orientated Programming (CST8132)/Hybrid7/src/BufferedComparison.java",
+		"/C/Users/Ian/Documents/dat ass.csv",
+		"/C/Users/Ian/Desktop/Databases Programming Demo/index.php",
+		"/C/Users/Ian/Documents/dicks.ser",
+		"/C/Users/Ian/Documents/bullshit",
+		"/C/Users/Ian/Desktop/gabriel-ian-assignment3.sql",
+		"/C/Users/Ian/Downloads/Assignment 3.sql",
+		"/C/Users/Ian/Desktop/notes.bash",
+		"/C/Users/Ian/Downloads/Kronmueller, Steve - Lab 8.sql",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Object Orientated Programming (CST8132)/Lab8/Persons.ser",
+		"/C/Users/Ian/Google Drive/Homeworkz/Level 2/Communications (ENL1813-080)/references.gdoc",
+		"/C/Windows/Minidump/110414-7098-01.dmp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"girl.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"bird",
+			"bird.",
+			"bird",
+			"ghost",
+			"alert",
+			"girl",
+			"this.girl.",
+			"this.girl",
+			"girl.this",
+			"girl.",
+			"girl",
+			"game",
+			"treeline"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bird.sprite.",
+			"this.sprite",
+			"this.sprite.",
+			"this.sprite",
+			"ghost.sprite",
+			"",
+			"this.sprite",
+			"this.sprite.",
+			"this.girl.",
+			"this.girl"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "sub.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
