@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>ShadeWood</title>
+        <script src="phaser-master/build/phaser.js"></script>
+        <script src="boot.js"></script>
+        <script src="preloader.js"></script>
+        <script src="mainMenu.js"></script>
+        <script src="game.js"></script>
+        <script src="level1.js"></script>
+        <script src="level2.js"></script>
+        <script src="level3.js"></script>
+        <script src="girl.js"></script>
+        <script src="ghost.js"></script>
+        <script src="mouse.js"></script>
+        <script src="deer.js"></script>
+        <script src="bird.js"></script>
+        <script src="bear.js"></script>
+    </head>
+    <body>
+<script type="text/javascript">
+
+    function boot() 
+    {
+    	game = new Phaser.Game(1280, 800);
+
+
+
+    	game.state.add('boot', Main.Boot, true);
+    	game.state.add('preloader', Main.Preloader);
+    	game.state.add('mainMenu', Main.MainMenu);
+
+        game.state.add('level1', Main.Level1);
+        game.state.add('level2', Main.Level2);
+        game.state.add('level3', Main.Level3);    
+    }
+
+    window.onload = function () 
+    {
+    	boot();
+}
+
+</script>
